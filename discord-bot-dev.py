@@ -46,5 +46,3 @@ async def say(ctx, arg):
 
 token = os.environ["token"]
 bot.run(token)
-
-# sibal
